@@ -2,3 +2,6 @@
 # They must follow this format below: # 
 # https://www.reddit.com/r/gadgets/comments/ptt967/eu_proposes_mandatory_usbc_on_all_devices/ # 
 # Lines with "#" at the start will be ignored (treated as comments). #
+
+https://www.reddit.com/r/funny/comments/1ssl0ax/guinnessun_dorma/
+https://www.reddit.com/r/funny/comments/1ssnryl/hr_said_we_needed_more_culture_in_the_office_ive/
